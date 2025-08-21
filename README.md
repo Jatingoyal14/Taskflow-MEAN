@@ -65,12 +65,9 @@
 
 - Clean, professional UX
 - Separation of concerns (database, API, UI layers)
-- Resume-ready full-stack demo — discuss CRUD, RESTful APIs, responsive layout, component code, etc.
+- Ready full-stack demo — discuss CRUD, RESTful APIs, responsive layout, component code, etc.
 - Easily extendable to real database/server (swap localStorage with MongoDB, add Express server, split JS into Angular app)
 
 ---
 
 
-
-**Built for learning, designed to impress!**
-```
